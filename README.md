@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on an app that converts a specific time in a place in the world to another place with a different timezone (sort of a timeanddate clone) called Meet Me and an app that sets up play dates for dogs called Tail It (see Pinned below 👇)
 
-🌱 I’m currently learning React 
+🌱 I’m currently learning Java Spring Boot
 
 😄 Pronouns: she/her
 
